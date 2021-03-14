@@ -1,6 +1,5 @@
-package Labor3_3;
+package Labor2_3;
 
-import java.sql.SQLOutput;
 import java.util.Random;
 
 public class main {
