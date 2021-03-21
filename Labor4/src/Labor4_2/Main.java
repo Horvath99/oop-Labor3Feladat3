@@ -47,8 +47,6 @@ public class Main {
                  customer1.addAccount(account);
             }
 
-
-            // persons.add(new Person(items[0].trim()),items[1].trim(),Integer.parseInt(items[2].trim()));
         }
         return customers;
     }
