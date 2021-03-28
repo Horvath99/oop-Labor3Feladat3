@@ -38,6 +38,34 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Labor6\src\Labor6_1\CheckingAccount.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Labor6\src\Labor6_1\SavingsAccount.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Labor6\src\Labor6_2\StackAggregation.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Labor6\src\Labor6_2\StackInheritance.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
