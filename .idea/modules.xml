@@ -2,11 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Labor10/Labor10.iml" filepath="$PROJECT_DIR$/Labor10/Labor10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labor11/Labor11.iml" filepath="$PROJECT_DIR$/Labor11/Labor11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labor12/Labor12.iml" filepath="$PROJECT_DIR$/Labor12/Labor12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labor13/Labor13.iml" filepath="$PROJECT_DIR$/Labor13/Labor13.iml" />
       <module fileurl="file://$PROJECT_DIR$/Labor2/Labor2.iml" filepath="$PROJECT_DIR$/Labor2/Labor2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Labor3/Labor3.iml" filepath="$PROJECT_DIR$/Labor3/Labor3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Labor4/Labor4.iml" filepath="$PROJECT_DIR$/Labor4/Labor4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Labor5/Labor5.iml" filepath="$PROJECT_DIR$/Labor5/Labor5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Labor6/Labor6.iml" filepath="$PROJECT_DIR$/Labor6/Labor6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labor7/Labor8.iml" filepath="$PROJECT_DIR$/Labor7/Labor8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labor9/Labor9.iml" filepath="$PROJECT_DIR$/Labor9/Labor9.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop-gyakorlat.iml" filepath="$PROJECT_DIR$/oop-gyakorlat.iml" />
     </modules>
   </component>
